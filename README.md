@@ -1,2 +1,1 @@
-# Tribute_Page
-My first official completed page!
+# ruby_web3
